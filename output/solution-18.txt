@@ -1,0 +1,9 @@
+Student: Casey Rounseville
+name: Roger, wage: $9.0, hours: 40
+	weekly salary: $360.0
+	annual salary: $18720.0
+name: Suzie, wage: $11.0, hours: 42
+name: Suzan, wage: $11.5, hours: 43
+	weekly salary: $494.5
+	annual salary: $25714.0
+name: Suzan, wage: $12.5, hours: 43
