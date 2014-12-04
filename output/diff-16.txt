@@ -1,0 +1,12 @@
+1,9c1
+< Student: Don Irwin
+< name: Roger, wage: $9.0, hours: 40
+< 	weekly salary: 360.0
+< 	annual salary: 18720.0
+< name: Susie, wage: $11.0, hours: 42
+< name: Susan, wage: $11.5, hours: 43
+< 	weekly salary: 494.5
+< 	annual salary: 25714.0
+< name: Susan, wage: $12.5, hours: 43
+---
+> Student: <put your name here>
