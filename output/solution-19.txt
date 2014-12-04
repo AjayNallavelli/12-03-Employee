@@ -1,0 +1,9 @@
+Student: Safiyy
+name: Josh, wage: 1000.0, hours: 24
+	weekly salary: 168000.0
+	annual salary: 8736000.0
+name: Nick, wage: 20.0, hours: 10
+name: Dre, wage: 2.0, hours: 5
+	weekly salary: 70.0
+	annual salary: 3640.0
+name: Dre, wage: 3.0, hours: 5
